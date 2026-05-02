@@ -8,3 +8,12 @@ However, if you wish to talk to me about this app and/or collaborate with me on 
 
 Thanks for being (or not?) here
 -- Signed off by Dimu
+
+---
+<img src="https://github.com/pdimu/MultiTune/blob/main/TuneTone.png?raw=true" width="100px"/>
+
+## Update - 02.05.2026
+Hi hello hi again, I'm just writing to inform the very few (more than I expected) stargazers that this repo will be moved at some point (if it hasn't already) to the [TuneTone](https://github.com/TuneTone) org, which will be home to other projects related to MultiTune (in the future) (still not soon)
+
+Thanks for the stars, I don't deserve them
+-- Signed off by Dimu
