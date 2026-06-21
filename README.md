@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/TuneTone/MultiTune/blob/main/README%20attachments/README%20Header.png?raw=true" width="50%"/>
+<img src="https://github.com/TuneTone/MultiTune/blob/main/README%20attachments/README%20Header.png?raw=true" width="32%"/>
 
 ---
 ## Update - 31.03.2026
